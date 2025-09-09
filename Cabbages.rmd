@@ -45,6 +45,8 @@ By looking at the data we figured out we had a numerical explained by categorica
 boxplot(VitC~Cult,data=veggy)
 ```
 
+The VitC of both c52 and c39 cultivation methods vary. The average VitC of c52 is much higher than the average VitC content of c39. 
+
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
 ## Inferential Results
