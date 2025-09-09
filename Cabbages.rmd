@@ -21,6 +21,8 @@ veggy <- cabbages
  
 ### Is there a difference in average VitC between c39 and c52 cultivation methods?  
 
+Yes,the average in VitC of the c52 cultivation method is much higher than the avereage VitC of c39 cultivation method.
+
 # Methods
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
