@@ -57,6 +57,8 @@ The VitC of both c52 and c39 cultivation methods vary. The average VitC of c52 i
 t.test(VitC~Cult,data=veggy)
 ```
 
+There is strong statistical evidence that Vitamin C content is different between the two cultivars. The true difference (c39 − c52) lies between -16.9 and -8.9 meaning the entire interval is below zero, c52 has significantly higher Vitamin C. Specifically, c52 has about 9–17 units more Vitamin C than c39, on average. 
+
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
