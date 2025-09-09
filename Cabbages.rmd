@@ -25,6 +25,8 @@ veggy <- cabbages
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
+By looking at the data we figured out we had a numerical explained by categorical problem. So we chose to upload the Numerical ~ cat file to help with the data. The numerical variable was Vitc and the categorical data was the factor variable cult. 
+
 # Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
