@@ -25,7 +25,7 @@ veggy <- cabbages
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
-By looking at the data we figured out we had a numerical explained by categorical problem. So we chose to upload the Numerical ~ cat file to help with the data. The numerical variable was Vitc and the categorical data was the factor variable cult. 
+By looking at the data we figured out we had a numerical explained by categorical problem. So we chose to upload the Numerical ~ cat file to help with the data. The numerical variable was VitC and the categorical data was the factor variable cult. 
 
 # Results
 
@@ -38,6 +38,10 @@ By looking at the data we figured out we had a numerical explained by categorica
 <!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
 ### Numerical Descriptive Results
+
+```{r}
+boxplot(VitC~Cult,data=veggy)
+```
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
