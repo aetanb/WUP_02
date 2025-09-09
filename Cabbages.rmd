@@ -51,6 +51,8 @@ The VitC of both c52 and c39 cultivation methods vary. The average VitC of c52 i
 favstats(VitC~Cult,data=veggy)
 ```
 
+The Q3 for c39 has a value of 54.75 and the Q1 for c52 has a value of 58, normally in such situations the statistical result will show that they are different significantly.
+
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
 ## Inferential Results
