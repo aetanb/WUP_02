@@ -47,6 +47,9 @@ The VitC of both c52 and c39 cultivation methods vary. The average VitC of c52 i
 
 ### Numerical Descriptive Results
 
+```{r}
+favstats(VitC~Cult,data=veggy)
+```
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
